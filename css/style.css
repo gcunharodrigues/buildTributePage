@@ -1,0 +1,63 @@
+body {
+    background-image: url(img/rogerfederergrass.jpg);
+    font-size: 16px;
+    margin: 3em;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2.3em;
+}
+
+header{
+    background-color: rgba(255, 255, 255, 0.65);
+    text-align: center;
+}
+
+#main {
+    background-color: rgba(255, 255, 255, 0.65);
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info {
+    display: block;
+    max-width: 50%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#description-titles{
+    display: block;
+    margin-left: auto;
+    font-size: 1.6em;
+}
+
+#moreinformation {
+    font-size: 2.5em;
+}
+
+dt {
+    margin-bottom: 0.2em;
+    font-size: 1.2em;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 1.6em;
+}
+
+p {
+    font-size: 1.6em;
+    padding: 1em;
+}
+
+cite {
+    display: block;
+    text-align: right;
+}
