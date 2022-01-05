@@ -1,3 +1,3 @@
-# freeCodeCamp - Guilherme Cunha Rodrigues
+# freeCodeCamp - Guilherme Cunha Rodrigues.
 
-This is my repository for freeCodeCamp challenges.
+Build a tribute page.
